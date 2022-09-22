@@ -23,9 +23,7 @@ Eu sou o Edivilhian Hipolito, sou um Programador Front End, atualmente estou apr
    <br>
    
    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edivilhian-H)](https://github.com/anuraghazra/github-readme-stats)
-   
-   <br>
-   
+
    [![Edivilhian stats](https://github-readme-stats.vercel.app/api?username=Edivilhian-H)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edivilhian-H)](https://github.com/anuraghazra/github-readme-stats)
    
