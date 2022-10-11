@@ -1,30 +1,24 @@
-### Hi there :sunglasses:
+## Olá eu sou Edivilhian Hipolito, Desenvolvedor Web-Front-End!
+<div align="center">
+  <a href="https://github.com/Edivilhian-H">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edivilhian-H&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edivilhian-H&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-Eu sou o Edivilhian Hipolito, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
-   <br>
-   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-   - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-   - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-   
-   <br>
-   
-   ##### Contatos:
-   
-   <p>
-   <a href="https://www.linkedin.com/in/edivilhian-hip%C3%B3lito-158192250/">
-   <img align="left" alt="icone Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-   <a href="https://www.instagram.com/edivilhian_hp/?next=%2F">
-   <img align="left" alt="icone do instagram"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-   </a>
-   </p>
-   
-   <br>
-   <br>
-   
-   
-    <p>
-   [![Edivilhian stats](https://github-readme-stats.vercel.app/api?username=Edivilhian-H)](https://github.com/anuraghazra/github-readme-stats)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edivilhian-H)](https://github.com/anuraghazra/github-readme-stats)
-   </p>
-   
+<div style="display: inline_block"><br>
+  <img align="center" alt="Edi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!--<img align="center" alt="Edi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
+  <img align="center" alt="Edi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Edi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202210/1374338_DkOwzF69.png">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/edivilhian_hp/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:edivilhianhipolito2005@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/edivilhian-hip%C3%B3lito-158192250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ ![Snake animation](https://github.com/Edivilhian-H/Edivilhian-H/blob/output/github-contribution-grid-snake.svg)
+</div>
