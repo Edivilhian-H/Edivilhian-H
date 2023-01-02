@@ -10,7 +10,7 @@
   <img align="center" alt="Edi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Edi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202210/1374338_DkOwzF69.png">
+  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://programadorviking.com.br/wp-content/uploads/2020/12/Programacao-JavaScript.jpg">
 </div>
   
   ##
